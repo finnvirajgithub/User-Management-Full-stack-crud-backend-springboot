@@ -1,0 +1,6 @@
+com\practical1\Full\stack\crud\exception\UserNotFoundAdvice.class
+com\practical1\Full\stack\crud\model\User.class
+com\practical1\Full\stack\crud\controller\UserController.class
+com\practical1\Full\stack\crud\exception\UserNotFoundException.class
+com\practical1\Full\stack\crud\FullStackCrudApplication.class
+com\practical1\Full\stack\crud\repository\UserRepository.class
